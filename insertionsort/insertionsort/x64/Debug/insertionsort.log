@@ -1,0 +1,3 @@
+﻿  insertionsort.cpp
+C:\Users\ipz231_soa\Desktop\Lab13 Основи програмування\insertionsort\insertionsort\insertionsort.cpp(6,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  insertionsort.vcxproj -> C:\Users\ipz231_soa\Desktop\Lab13 Основи програмування\insertionsort\x64\Debug\insertionsort.exe

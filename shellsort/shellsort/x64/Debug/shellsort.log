@@ -1,0 +1,3 @@
+﻿  shellsort.cpp
+C:\Users\ipz231_soa\Desktop\Lab13 Основи програмування\shellsort\shellsort\shellsort.cpp(6,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  shellsort.vcxproj -> C:\Users\ipz231_soa\Desktop\Lab13 Основи програмування\shellsort\x64\Debug\shellsort.exe

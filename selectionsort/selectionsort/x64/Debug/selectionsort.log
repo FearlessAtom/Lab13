@@ -1,0 +1,3 @@
+﻿  selectionsort.cpp
+C:\Users\ipz231_soa\Desktop\Lab13 Основи програмування\selectionsort\selectionsort\selectionsort.cpp(5,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  selectionsort.vcxproj -> C:\Users\ipz231_soa\Desktop\Lab13 Основи програмування\selectionsort\x64\Debug\selectionsort.exe
